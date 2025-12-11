@@ -1,0 +1,17 @@
+/* Styling completed in an external file is called "External Styling".  Notice that the file has to end in ".css".  This is the preferred method of styling because it supports scalability by detaching CSS from the HTML file. */
+
+
+/* Challenge 5: Change the alignment of the text to center, padding to 20px, color of the background to rgba(0,0,0,0.5), margin to 20px for all elements with a class of "landmark" */
+
+/* Challenge 6: Change the color of text to white and the shadow of the text to 2px 2px brown for all headings of size 1 inside containers with a class of "landmark" */
+
+/* Challenge 7: Change the height to 100px, margin to 20px, and border to solid 5px white for all images */
+
+/* Challenge 8: Change the filter to invert(90%) for all images in the element with id of "empire" */
+
+/* Challenge 9: Change the filter to sepia(90%) for all images in the element with id of "square" */
+
+/* Challenge 9: Change the filter to provide a drop shadow effect of blue(10px) for all images in the element with id of "central" */
+
+/* Challenge 10: Change the filter to none for all images within each of their respective containers, when the visitor hovers over any image in that container */
+

@@ -1,0 +1,37 @@
+/* Basic Structure of a CSS rule using classes
+.class{
+  property: value;
+}
+*/
+
+/* Challenge 3: Change the family of font for all paragraphs to Arial */
+p {
+    font-family: Arial;
+}
+/* Challenge 4: Change the style of font for all divs to italic */
+div {
+  font-style: italic;
+}
+/* Challenge 5: Change the color of text for all heading 1 to blue */
+h1 {
+  color: blue;
+}
+/* Challenge 6: For all elements with a class of "info", change the background color to blue and the color of the text to white  */
+.info {
+  background-color: blue;
+  color: white;
+}
+/* Challenge 7: For all elements with a class of "highlight", add a border of 2px dotted red  */
+.highlight {
+  border: 2px dotted red;
+}
+/* Challenge 8: For all elements with a class of "title", align the text in the center and drop a shadow on the text of 2px 2px red  */
+.title {
+  text-align: center;
+  text-shadow: 2px 2px red;
+}
+
+/* Challenge Bonus: Add a class attribute named "shadow" to the 2nd paragraph and the 3rd div. Create a CSS rule for the class "shadow". Apply a shadow to the box around the elements that is 2px 2px gray.  */ 
+.shadow {
+  box-shadow: 2px 2px gray;
+}

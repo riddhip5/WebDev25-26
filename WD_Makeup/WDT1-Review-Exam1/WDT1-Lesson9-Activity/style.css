@@ -1,0 +1,30 @@
+  
+/* Challenge 1: Change the radius of the borders of all images to 20px */
+img {
+  border-radius: 20px;
+}
+/* Challenge 2: Change the width of the image with an id of "banner" to 95% */
+#banner {
+  width: 95%;
+}
+/* Challenge 3: Change the height of all images with a class of "logo" to 100px*/
+.logo {
+  height: 100px;
+}
+/* Challenge 4: Change the padding to 40px for all divs */
+div {
+  padding: 40px;
+}
+/* Challenge 5: Change the size of the font to 24pt, family of font to "Arial", color of the background to rgb(0,0,200) and the color of the text to white for the div with an id of "main_container" */
+#main_container {
+  font-size: 24pt;
+  font-family: Arial;
+  background-color: rgb(0,0,200);
+  color: white;
+}
+/* Challenge 6: Assign the link an id of "source". Create a CSS rule for the id "source".  Change the color of the background to #00FFFF, radius of the border to 10pt and add a shadow to the box around the element of 3px 3px silver; */
+#source {
+  background-color: #00FFFF;
+  border-radius: 10pt;
+  box-shadow: 3px 3px silver;
+}
